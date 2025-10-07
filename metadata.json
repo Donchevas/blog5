@@ -1,0 +1,5 @@
+{
+  "name": "Blog",
+  "description": "Blog publicarlo eb Vercel para interactuar con CMS",
+  "requestFramePermissions": []
+}
